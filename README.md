@@ -1,10 +1,8 @@
 # STIJ5014: Distributed Systems (Assignment 2)
 
-### Lecturer
-**Suwannit Chareen Chit a/l Sop Chit**
+### Lecturerv: Suwannit Chareen Chit a/l Sop Chit**
 
-### Course Code
-**STIJ5014**
+### Course Code : **STIJ5014**
 
 ## Team Members
 
@@ -13,6 +11,8 @@
 | Eswari a/p Somu            | 832067        |
 | Tharisana a/p Ganeson      | 832071        |
 | Nurashida Binti Mohd. Desa | 833057        |
+
+## Title: Temperature and Humidity Monitoring with Blynk and EEPROM
 
 ## Presentation
 
