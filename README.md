@@ -20,4 +20,4 @@ You can watch our presentation on YouTube via the following link:(https://www.yo
 
 ## Arduino Code
 
-The Arduino code used for the project has been uploaded and can be found [here]([https://github.com/eswarisomu/ASIGNMENT-1---STIJ5014-DISTRIBUTED-SYSTEMS/blob/main/Assignment1.ino](https://github.com/eswarisomu/ASIGNMENT-2---STIJ5014-DISTRIBUTED-SYSTEMS)).
+The Arduino code used for the project has been uploaded and can be found [here](https://github.com/eswarisomu/ASIGNMENT-2---STIJ5014-DISTRIBUTED-SYSTEMS).
