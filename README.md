@@ -14,6 +14,9 @@
 
 ## Title: Temperature and Humidity Monitoring with Blynk and EEPROM
 
+## Objective
+The purpose of this project is to build a temperature and humidity monitoring system using an ESP8266 microcontroller and a DHT11 sensor. Through a mobile application, this system provides real-time monitoring and management via an interface with the Blynk platform. In addition, it retains the latest humidity and temperature data in EEPROM, ensuring that the data is retained even after a system restart.
+
 ## Presentation
 
 You can watch our presentation on YouTube via the following link:(https://www.youtube.com/watch?v=VNhZuid-m0w&feature=youtu.be)
