@@ -19,7 +19,7 @@ The purpose of this project is to build a temperature and humidity monitoring sy
 
 ## Presentation
 
-You can watch our presentation on YouTube via the following link:(https://www.youtube.com/watch?v=VNhZuid-m0w&feature=youtu.be)
+You can watch our presentation on YouTube via the following link:(https://www.youtube.com/watch?v=8fTk1dIVOdM)
 
 ## Arduino Code
 
