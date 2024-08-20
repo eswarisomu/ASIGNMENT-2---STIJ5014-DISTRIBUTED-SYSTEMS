@@ -1,6 +1,6 @@
 # STIJ5014: Distributed Systems (Assignment 2)
 
-### Lecturerv: Suwannit Chareen Chit a/l Sop Chit**
+### Lecturer: Suwannit Chareen Chit a/l Sop Chit
 
 ### Course Code : **STIJ5014**
 
