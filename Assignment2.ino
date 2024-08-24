@@ -25,8 +25,8 @@ DHT dht(DHTPIN, DHTTYPE);
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // WiFi credentials
-char ssid[] = "S.R.ESWARI"; // WiFi SSID
-char pass[] = "somurani";   // WiFi password
+char ssid[] = "Your_SSID"; // WiFi SSID
+char pass[] = "Your_PASSWORD";   // WiFi password
 
 // Previous humidity and temperature values
 float previousHumidity = 0.0; // Stores the last known humidity value read from the sensor.
